@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="red">#ff0000</color>
+    <color name="gray">#808080</color>
+    <color name="yellow">#ffff00</color>
+    <color name="bg_gray">#E4E4E4</color>
+    <color name="primary_app_color">#F4EBD0</color>
+    <color name="secondary_app_color">#B68D40</color>
+    <color name="ternary_app_color">#D6AD60</color>
+    <color name="accent">#FFC107</color>
+    <color name="text_color">#212121</color>
+    <color name="secondary_text_color">#757575</color>
+    <color name="dark_blue">#0A1C2C</color>
+    <color name="sky_blue">#1A5DA0</color>
+    <color name="bt_color">#00BCD4</color>
+    <color name="et_bg_color">#1F2B3A</color>
+    <color name="bg_input_color">#2F3E4D</color>
+    <color name="main_text_color">#122620</color>
+
+</resources>

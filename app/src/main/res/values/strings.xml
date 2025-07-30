@@ -1,0 +1,11 @@
+<resources>
+    <string name="hello">Hello</string>
+    <string name="description_project">Shop Now!</string>
+    <string name="bt_next">Next</string>
+    <string name="name_project">Shopito</string>
+    <string name="lorem_text">Lorem ipsum dolor sit amet consectetur.
+                            Sed nisi eu nunc pharetra iaculis vitae dolor.
+                            Eu sed consectetur semper nunc sapien nascetur
+                            vitae sit aliquam. Sed aliquet tortor massa bibendum.</string>
+    <string name="forget_password"><u>forget password?</u></string>
+</resources>
