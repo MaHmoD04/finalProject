@@ -8,4 +8,6 @@
                             Eu sed consectetur semper nunc sapien nascetur
                             vitae sit aliquam. Sed aliquet tortor massa bibendum.</string>
     <string name="forget_password"><u>forget password?</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

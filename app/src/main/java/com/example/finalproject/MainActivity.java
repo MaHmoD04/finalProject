@@ -2,16 +2,18 @@ package com.example.finalproject;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.widget.Button;
-import android.widget.VideoView;
+import android.widget.GridView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -27,12 +29,12 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
+        // زر الانتقال للشاشة التالية
         Button bt_next = findViewById(R.id.bt_next);
-
         bt_next.setOnClickListener(v -> {
             Intent intent = new Intent(MainActivity.this, onBoarding_1.class);
             startActivity(intent);
         });
-
     }
+
 }

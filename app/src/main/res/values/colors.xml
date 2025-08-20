@@ -20,5 +20,6 @@
     <color name="et_bg_color">#1F2B3A</color>
     <color name="bg_input_color">#2F3E4D</color>
     <color name="main_text_color">#122620</color>
+    <color name="dark_green">#064420</color>
 
 </resources>
