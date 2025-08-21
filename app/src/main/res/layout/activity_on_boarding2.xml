@@ -83,6 +83,7 @@
             android:backgroundTint="#122620"
             android:gravity="center"
             android:text="@string/bt_next"
+            android:textColor="@color/white"
             app:cornerRadius="5dp">
 
         </Button>

@@ -27,7 +27,7 @@ public class splash_screen extends AppCompatActivity {
         });
 
         VideoView videoView = findViewById(R.id.videoView);
-        Uri uri = Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.shopito_hello);
+        Uri uri = Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.intro_hello);
         videoView.setVideoURI(uri);
         videoView.start();
 
